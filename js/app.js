@@ -176,6 +176,7 @@ function restart() {
 	{
 		// remove open class so they can flip back again at the starting position
 		$(".card").removeClass("open");
+		$(".card").removeClass("match");
 		//remove all current pattern from the card
 		$(".back").find("i").remove();
 		// empty check array
