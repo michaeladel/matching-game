@@ -2,12 +2,13 @@
 
 ## Table of Contents
 
-* [Introduction](#Introduction)
-* [Dependencies](#Dependencies)
-* [How To](#How)
-* [GameLogic](#GameLogic)
-* [Play](#Play)
-* [Ratings](#Ratings)
+* [Introduction](#introduction)
+* [Dependencies](#dependencies)
+* [How To Run The Game](#how-to-run-the-game)
+* [GameLogic](#gamelogic)
+* [Play](#play)
+* [Ratings](#ratings)
+
 
 ## Introduction
 
